@@ -1,0 +1,3 @@
+#Ignore Intellij Files
+.idea/*
+*.iml
